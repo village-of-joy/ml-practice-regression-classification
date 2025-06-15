@@ -29,7 +29,7 @@ if __name__=="__main__":
     plt.xlabel("Study Hours")
     plt.ylabel("Test Score")
     plt.grid(True)
-    plt.savefig("output/study_hours_vs_score.png")
+    plt.savefig("output/2_study_hours_vs_score.png")
     plt.close()
 
     # 単回帰（勉強時間のみ）
@@ -53,7 +53,7 @@ if __name__=="__main__":
     plt.ylabel("Test Score")
     plt.legend()
     plt.grid(True)
-    plt.savefig("output/linear_regression_single.png")
+    plt.savefig("output/2_linear_regression_single.png")
     plt.close()
     
     # 重回帰（勉強時間＋睡眠時間）

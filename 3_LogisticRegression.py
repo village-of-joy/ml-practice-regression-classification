@@ -65,7 +65,7 @@ if __name__=="__main__":
     plt.xlabel('Age')
     plt.legend()
     plt.tight_layout()
-    plt.savefig('output/age_vs_survival.png')
+    plt.savefig('output/3_age_vs_survival.png')
     plt.show()
     
    
