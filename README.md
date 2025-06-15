@@ -17,3 +17,9 @@
 - タイタニック号の乗客が「生存したかどうか（0=死亡, 1=生存）」を予測
 - document: [3_LogisticRegression.md](https://github.com/village-of-joy/ml-practice-regression-classification/blob/main/document/3_LogisticRegression.md)
 - 模範解答: [answer/3_LogisticRegression.py](https://github.com/village-of-joy/ml-practice-regression-classification/blob/main/answer/3_LogisticRegression.py)
+
+## 決定木・ランダムフォレスト・ROC曲線
+### 4_DecisionTree_RandomForest_Evaluation.py
+- タイタニック号の乗客が「生存したかどうか（0=死亡, 1=生存）」を決定木とランダムフォレストで予測し、ROC曲線で性能評価
+- document: [4_DecisionTree_RandomForest_Evaluation.md](https://github.com/village-of-joy/ml-practice-regression-classification/blob/main/document/4_DecisionTree_RandomForest_Evaluation.md)
+- 模範解答: [answer/4_DecisionTree_RandomForest_Evaluation.py](https://github.com/village-of-joy/ml-practice-regression-classification/blob/main/answer/4_DecisionTree_RandomForest_Evaluation.md)
