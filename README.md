@@ -43,3 +43,8 @@
 - 模範解答: [answer/5_FeatureEngineering.py](https://github.com/village-of-joy/ml-practice-regression-classification/blob/main/answer/5_FeatureEngineering.py)
 
 
+## 他の分類アルゴリズム（SVM, KNN）
+### 6_SVM_KNN_Classification.py
+- タイタニック号の乗客データから、SVMとk-NN手法を用いて、乗客が「生存したかどうか」を予測する
+- document: [6_SVM_KNN_Classification.md](https://github.com/village-of-joy/ml-practice-regression-classification/blob/main/document/6_SVM_KNN_Classification.md)
+- 模範解答: [answer/6_SVM_KNN_Classification.py](https://github.com/village-of-joy/ml-practice-regression-classification/blob/main/answer/6_SVM_KNN_Classification.py)
